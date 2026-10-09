@@ -39,260 +39,280 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn basic movement, gentle exploration pacing, and how to begin Alfred's emotional road trip across scenic wilderness trails."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Photography Mechanics",
+          "description": "Master camera framing, viewfinder zoom, and capturing meaningful memories to fill your travel photo journal."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Camper Van Exploration",
+          "description": "Navigate scenic backcountry routes, discover quiet roadside stops, and maintain your cozy vintage motorhome."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Forever Ago."
+          "title": "Memories & Story Clues",
+          "description": "Uncover hidden keepsakes, inspect environmental souvenirs, and piece together poignant chapter recollections."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Popular Guides",
+      "title": "Trending Topics in Forever Ago",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Camper Van",
+        "Photo Mechanics",
+        "Story Walkthrough"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential road trip tips, controls, and exploration pacing for your first journey.",
+          "href": "/guide/forever-ago-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Mechanics",
+          "title": "Camper Van Guide",
+          "description": "Learn how to maintain and explore with your vintage motorhome across North America.",
+          "href": "/mechanics/forever-ago-camper-van"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Story",
+          "title": "Story Premise & Chapters",
+          "description": "A deep dive into Alfred's emotional story, past recollections, and narrative themes.",
+          "href": "/story/forever-ago-story"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Platform",
+          "title": "PC System Requirements",
+          "description": "Check hardware requirements, controls, and performance settings for PC Steam.",
+          "href": "/platforms/forever-ago-pc"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Forever Ago?",
       "paragraphs": [
-        "Forever Ago is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Forever Ago is an intimate, story-driven narrative adventure game developed by Third Shift Games. Players follow the contemplative road trip of an elderly traveler journeying across scenic North American landscapes in a cozy vintage camper van, accompanied by a loyal canine companion.",
+        "Through delicate instant photography, tranquil roadside exploration, and evocative environmental storytelling, Forever Ago explores universal themes of healing, memory, and aging. Our comprehensive wiki provides in-depth guides, chapter walkthroughs, and mechanics breakdowns to enhance your quiet journey."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Third Shift Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Narrative Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Story Chapters",
+          "value": "5 Chapters"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Companion",
+          "value": "Faithful Dog"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Theme",
+          "value": "Road Trip & Memory"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Forever Ago Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Discover comprehensive guides, story analyses, photography tips, and platform details for your quiet road trip adventure in Forever Ago.",
       "modules": [
         {
           "order": 1,
-          "name": "Forever Ago Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/forever-ago-codes",
-          "displayType": "code-box",
+          "name": "Forever Ago Story Guide",
+          "description": "This module covers the main narrative premise, Alfred's journey, important characters, and emotional themes of Forever Ago. It helps players understand the game's story structure and exploration-focused experience.",
+          "href": "/story/forever-ago-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Premise",
+              "detail": "Follow Alfred on a reflective cross-country journey after a life-altering tragedy."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Themes",
+              "detail": "Explore deep themes of grief, human connection, nostalgia, and acceptance."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Structure",
+              "detail": "Unfold five episodic chapters paced around natural scenic landmarks and memories."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/forever-ago-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Forever Ago Gameplay Guide",
+          "description": "This module explains the core gameplay loop, including road trip exploration, camera mechanics, environmental interactions, and puzzle elements. It targets players searching for how Forever Ago works before or after purchase.",
+          "href": "/mechanics/forever-ago-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Drive the vintage camper van along tranquil backcountry roads and wilderness trails."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Scout scenic lookout points and equip your vintage camera to compose snapshots."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Examine souvenirs, notes, and environment clues to piece together forgotten memories."
+            },
+            {
+              "label": "4",
+              "detail": "Interact with your loyal dog and roadside strangers to unlock heartfelt dialogue."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/forever-ago-tier-list",
-          "displayType": "tier-grid",
+          "name": "Forever Ago Release Date",
+          "description": "This module provides release information, supported platforms, launch details, and availability updates. It targets searches related to when and where players can play Forever Ago.",
+          "href": "/release/forever-ago-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Launch",
+              "detail": "Official release updates and launch schedule tracked directly across digital storefronts."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Steam",
+              "detail": "Available for wishlisting on Steam with demo availability during festivals."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Consoles",
+              "detail": "Planned launch windows evaluated across Xbox Series and PlayStation platforms."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/forever-ago-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Forever Ago Characters Guide",
+          "description": "This module introduces Alfred, Audrey, and other characters encountered during the journey. It can organize character backgrounds, relationships, and story importance.",
+          "href": "/story/forever-ago-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Alfred",
+              "detail": "The contemplative elderly protagonist traversing backroads to rediscover meaning."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Oliver",
+              "detail": "Alfred's faithful canine companion who brings warmth and comfort to every campsite."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Audrey",
+              "detail": "A cherished figure from Alfred's past whose memory sparks his cross-country trek."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/forever-ago-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Forever Ago System Requirements",
+          "description": "This module lists minimum and recommended hardware requirements for PC players. It helps users searching for performance, compatibility, and installation preparation information.",
+          "href": "/platforms/forever-ago-pc",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "OS",
+              "detail": "Windows 10 64-bit operating system required"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "CPU",
+              "detail": "Intel Core i5-4460 or AMD FX-6300 equivalent"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "RAM",
+              "detail": "8 GB system memory recommended for smooth rendering"
+            },
+            {
+              "label": "GPU",
+              "detail": "NVIDIA GeForce GTX 760 or AMD Radeon R7 260x"
+            },
+            {
+              "label": "Storage",
+              "detail": "6 GB available storage space required"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/forever-ago-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Forever Ago Platforms Guide",
+          "description": "This module compares available platforms, including PC and console versions, helping users decide where to play. It covers platform availability, features, and store links.",
+          "href": "/platforms/forever-ago-steam",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "PC Steam",
+              "detail": "Full mouse, keyboard, and controller support with Steam Cloud saves."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Xbox",
+              "detail": "Targeted for Xbox console ecosystems with Game Pass evaluation."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "PS5",
+              "detail": "Store concept listing with optimized gamepad vibration support."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Forever Ago Reviews",
+          "description": "This module collects official store ratings, press impressions, and player feedback about Forever Ago. It helps users researching whether the game is worth buying.",
+          "href": "/reviews/forever-ago-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Emotional Narrative — Poignant storytelling dealing with loss, aging, and rediscovery"
+            },
+            {
+              "label": "A",
+              "detail": "Atmosphere & Art — Scenic stylized vistas, cozy van interiors, and evocative music"
+            },
+            {
+              "label": "B",
+              "detail": "Photography Loop — Rewarding snapshot mechanics integrated with scrapbook journals"
+            },
+            {
+              "label": "C",
+              "detail": "Walking Pacing — Deliberate meditative tempo that favors patience over fast action"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Forever Ago News",
+          "description": "This module tracks official announcements, trailers, development updates, and release-related information from the developers. It provides a place for ongoing content updates.",
+          "href": "/release/forever-ago-launch-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Cinematic teaser and showcase reels highlighting wilderness routes and music."
+            },
+            {
+              "label": "Dev Log",
+              "detail": "Third Shift Games development progress notes on camper mechanics and pacing."
+            },
+            {
+              "label": "Festival",
+              "detail": "Steam Next Fest demo showcases, community Q&A streams, and playtests."
             }
           ]
         }
@@ -303,24 +323,24 @@
       "description": "Quick answers to the most common questions about Forever Ago.",
       "items": [
         {
-          "question": "What is Forever Ago?",
-          "answer": "Forever Ago is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What kind of game is Forever Ago?",
+          "answer": "Forever Ago is a story-driven narrative adventure game developed by Third Shift Games. Players embark on a contemplative road trip with an elderly protagonist named Alfred and his loyal dog, traveling in a vintage camper van while taking photos and uncovering emotional memories."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What are the core gameplay mechanics in Forever Ago?",
+          "answer": "The core mechanics of Forever Ago revolve around environmental exploration, driving a vintage camper van, tactile first-person interactions, and framing photographs with an instant camera to record meaningful moments in your travel journal."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms is Forever Ago available on?",
+          "answer": "Forever Ago is developed primarily for PC via Steam, with controller and Steam Deck support planned, alongside potential console releases for Xbox and PlayStation."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is Forever Ago suitable for casual or cozy adventure players?",
+          "answer": "Yes, Forever Ago emphasizes relaxed pacing, heartfelt storytelling, and immersive wilderness landscapes without fast-paced combat or punishing game-over states, making it ideal for fans of cozy narrative experiences."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How long does it take to complete the story in Forever Ago?",
+          "answer": "The narrative journey in Forever Ago spans 5 episodic story chapters, offering roughly 3 to 5 hours of focused emotional exploration depending on how much time you spend taking photographs and discovering optional roadside lore."
         }
       ]
     },
@@ -337,7 +357,6 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -347,7 +366,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "playOnSteam": "Play on Steam"
   },
   "footer": {
     "aboutTitle": "Forever Ago Wiki",
@@ -362,9 +382,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Game Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Story Guides",
+    "bossGuides": "Mechanics Guides",
+    "buildGuide": "Platform Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
