@@ -7,6 +7,7 @@ export interface NavigationItem {
   isContentType?: boolean;
 }
 
+// NAVIGATION_CONFIG is cleared for new game setup
 export const NAVIGATION_CONFIG: NavigationItem[] = [];
 
 export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => item.path.replace(/^\//, ""));
