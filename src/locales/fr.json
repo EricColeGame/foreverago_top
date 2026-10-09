@@ -1,1 +1,421 @@
-{}
+{
+  "site": {
+    "name": "Forever Ago Wiki",
+    "shortName": "Forever Ago",
+    "tagline": "Guides complets, soluces narratives, astuces photo & mécaniques",
+    "description": "Votre guide ultime pour Forever Ago sur Steam ! Découvrez les chapitres de l histoire, la photographie, le lore des personnages et nos conseils de progression.",
+    "legalNotice": "Wiki de fans non officiel. Créé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mécaniques",
+    "platforms": "Plateformes",
+    "release": "Sortie",
+    "story": "Histoire",
+    "reviews": "Avis"
+  },
+  "home": {
+    "meta": {
+      "title": "Forever Ago Wiki — Guide, Histoire, Gameplay & Astuces",
+      "description": "Explorez le Wiki Forever Ago avec des guides complets, des astuces de gameplay, l histoire détaillée, les personnages et les lieux de ce jeu d aventure émouvant."
+    },
+    "hero": {
+      "eyebrow": "Voyage d Aventure Narrative",
+      "title": "Forever Ago Wiki",
+      "description": "Un jeu d aventure narratif suivant un voyageur âgé explorant des lieux oubliés, immortalisant des souvenirs et révélant des histoires touchantes grâce à la photographie et à l exploration.",
+      "stats": [
+        "Chapitres d Histoire",
+        "Mécaniques Photo",
+        "Lore des Personnages",
+        "Guides Soluces"
+      ],
+      "primaryCta": "Guide de l Histoire",
+      "secondaryCta": "Astuces Gameplay",
+      "tertiaryCta": "Boutique Steam",
+      "videoLabel": "Médias officiels"
+    },
+    "updates": {
+      "title": "Dernières Mises à Jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Voir tout"
+    },
+    "start": {
+      "eyebrow": "Commencer ici",
+      "title": "Votre Voyage dans Forever Ago",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du Débutant",
+          "description": "Apprenez les déplacements de base, le rythme d exploration serein et comment débuter le road trip émouvant d Alfred le long des sentiers naturels."
+        },
+        {
+          "number": "2",
+          "title": "Mécaniques de Photographie",
+          "description": "Maîtrisez le cadrage, le zoom du viseur et la capture d instants précieux pour garnir votre journal photo de voyage."
+        },
+        {
+          "number": "3",
+          "title": "Exploration en Camping-car",
+          "description": "Parcourez des routes secondaires pittoresques, trouvez des haltes paisibles et entretenez votre charmant van vintage."
+        },
+        {
+          "number": "4",
+          "title": "Souvenirs & Indices Narratifs",
+          "description": "Trouvez des souvenirs cachés, inspectez les éléments du décor et reconstituez les souvenirs émouvants de chaque chapitre."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Guides Populaires",
+      "title": "Sujets Tendances dans Forever Ago",
+      "quickLinks": [
+        "Guide du Débutant",
+        "Camping-car",
+        "Mécaniques Photo",
+        "Soluce de l Histoire"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du Débutant",
+          "description": "Conseils essentiels de road trip, commandes et rythme d exploration pour vos premiers pas.",
+          "href": "/guide/forever-ago-beginner-guide"
+        },
+        {
+          "badge": "Mécaniques",
+          "title": "Guide du Camping-car",
+          "description": "Apprenez à entretenir et voyager avec votre van vintage à travers l Amérique du Nord.",
+          "href": "/mechanics/forever-ago-camper-van"
+        },
+        {
+          "badge": "Histoire",
+          "title": "Prémisse & Chapitres",
+          "description": "Une plongée dans l histoire poignante d Alfred, ses souvenirs passés et les thèmes narratifs.",
+          "href": "/story/forever-ago-story"
+        },
+        {
+          "badge": "Plateforme",
+          "title": "Configuration Requise PC",
+          "description": "Consultez les spécifications matérielles minimales et recommandées sur Steam.",
+          "href": "/platforms/forever-ago-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu est-ce que Forever Ago ?",
+      "paragraphs": [
+        "Forever Ago est un jeu d aventure narrative intimiste développé par Third Shift Games. Les joueurs accompagnent le voyage contemplatif d un homme âgé traversant les paysages nord-américains à bord d un van vintage, épaulé par son fidèle compagnon canin.",
+        "Grâce à une photographie instantanée soignée, une exploration paisible au fil des étapes et une narration environnementale évocatrice, Forever Ago aborde des thèmes universels de guérison, de mémoire et de vieillesse. Notre wiki propose des soluces complètes et des analyses détaillées."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Third Shift Games"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Aventure Narrative"
+        },
+        {
+          "label": "Chapitres",
+          "value": "5 Chapitres"
+        },
+        {
+          "label": "Compagnon",
+          "value": "Chien Fidèle"
+        },
+        {
+          "label": "Thème",
+          "value": "Road Trip & Mémoire"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorer le Wiki Forever Ago",
+      "description": "Découvrez des guides complets, des analyses narratives, des astuces photo et les détails des plateformes pour votre paisible road trip.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide de l Histoire de Forever Ago",
+          "description": "Couvre la trame narrative principale, le voyage d Alfred, les personnages clés et les thèmes émotionnels de Forever Ago.",
+          "href": "/story/forever-ago-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Prémisse",
+              "detail": "Suivez Alfred dans un voyage introspectif à la suite d une épreuve de vie."
+            },
+            {
+              "label": "Thèmes",
+              "detail": "Explorez le deuil, les liens humains, la nostalgie et l acceptation."
+            },
+            {
+              "label": "Structure",
+              "detail": "Cinq chapitres rythmés par des panoramas naturels et des souvenirs."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide de Gameplay de Forever Ago",
+          "description": "Détaille la boucle de gameplay : road trip, photographie, interactions environnementales et légères énigmes.",
+          "href": "/mechanics/forever-ago-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Conduisez le van vintage le long des chemins de campagne et sentiers forestiers."
+            },
+            {
+              "label": "2",
+              "detail": "Repérez des belvédères pittoresques et utilisez votre appareil photo pour composer vos clichés."
+            },
+            {
+              "label": "3",
+              "detail": "Examinez les souvenirs, notes et indices du décor pour faire revivre des instants oubliés."
+            },
+            {
+              "label": "4",
+              "detail": "Interagissez avec votre fidèle chien et des rencontres de passage pour des dialogues émouvants."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Date de Sortie de Forever Ago",
+          "description": "Informations sur le calendrier de sortie, les plateformes supportées et les détails du lancement.",
+          "href": "/release/forever-ago-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lancement",
+              "detail": "Suivi des annonces officielles et du calendrier sur les plateformes numériques."
+            },
+            {
+              "label": "Steam",
+              "detail": "Disponible sur liste de souhaits avec démos lors des festivals."
+            },
+            {
+              "label": "Consoles",
+              "detail": "Périodes de sortie envisagées sur Xbox Series et PlayStation."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des Personnages de Forever Ago",
+          "description": "Présente Alfred, Audrey et les autres personnages rencontrés tout au long du périple.",
+          "href": "/story/forever-ago-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Alfred",
+              "detail": "Le protagoniste âgé et contemplatif voyageant sur les routes pour retrouver un sens."
+            },
+            {
+              "label": "Oliver",
+              "detail": "Le fidèle compagnon à quatre pattes d Alfred, apportant réconfort à chaque bivouac."
+            },
+            {
+              "label": "Audrey",
+              "detail": "Une figure précieuse du passé d Alfred dont le souvenir inspire son voyage."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Configuration Requise Forever Ago",
+          "description": "Spécifications PC minimales et recommandées pour profiter d une expérience fluide.",
+          "href": "/platforms/forever-ago-system-requirements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 64-bit ou version ultérieure requis"
+            },
+            {
+              "label": "Processeur",
+              "detail": "Intel Core i5-4460 ou AMD FX-6300"
+            },
+            {
+              "label": "Mémoire",
+              "detail": "8 Go de RAM recommandés pour un rendu fluide"
+            },
+            {
+              "label": "Graphismes",
+              "detail": "NVIDIA GeForce GTX 760 ou AMD Radeon R7 260x"
+            },
+            {
+              "label": "Stockage",
+              "detail": "6 Go d espace disque disponible requis"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide des Plateformes Forever Ago",
+          "description": "Compare les versions PC et consoles pour vous orienter vers la meilleure plateforme de jeu.",
+          "href": "/platforms/forever-ago-steam",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PC Steam",
+              "detail": "Support complet clavier/souris, manette et sauvegardes Steam Cloud."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Envisagé pour l écosystème Xbox avec évaluation pour le Game Pass."
+            },
+            {
+              "label": "PS5",
+              "detail": "Page de présentation en magasin avec vibrations manette optimisées."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Avis sur Forever Ago",
+          "description": "Rassemble les critiques de la presse, notes officielles et retours de la communauté.",
+          "href": "/reviews/forever-ago-review",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Narration Émouvante — Récit touchant sur la perte, le temps qui passe et la résilience"
+            },
+            {
+              "label": "A",
+              "detail": "Ambiance & Direction Artistique — Panoramas sublimes, van chaleureux et musique douce"
+            },
+            {
+              "label": "B",
+              "detail": "Photographie Gratifiante — Système de clichés récompensant relié aux albums souvenirs"
+            },
+            {
+              "label": "C",
+              "detail": "Rythme Posé — Rythme méditatif privilégiant la contemplation sur l action rapide"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualités Forever Ago",
+          "description": "Suivi des bandes-annonces, carnets de développeurs et annonces officielles.",
+          "href": "/release/forever-ago-launch-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bande-annonce",
+              "detail": "Teasers cinématiques dévoilant routes de campagne et univers sonore."
+            },
+            {
+              "label": "Carnet Dev",
+              "detail": "Notes de développement de Third Shift Games sur le camping-car."
+            },
+            {
+              "label": "Festivals",
+              "detail": "Démos au Steam Next Fest et sessions d échanges communautaires."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "description": "Réponses rapides aux questions les plus fréquentes sur Forever Ago.",
+      "items": [
+        {
+          "question": "Quel genre de jeu est Forever Ago ?",
+          "answer": "Forever Ago est un jeu d aventure narrative développé par Third Shift Games. Les joueurs vivent le voyage contemplatif d Alfred et de son fidèle chien à bord d un van vintage, prenant des photos et découvrant des souvenirs émouvants."
+        },
+        {
+          "question": "Quelles sont les mécaniques principales de Forever Ago ?",
+          "answer": "Les mécaniques reposent sur l exploration d environnements, la conduite du camping-car vintage, des interactions tactiles à la première personne et la prise de photos pour enrichir votre carnet de voyage."
+        },
+        {
+          "question": "Sur quelles plateformes Forever Ago est-il disponible ?",
+          "answer": "Forever Ago est développé principalement pour PC via Steam, avec prise en charge manette et Steam Deck prévue, ainsi que des sorties potentielles sur consoles Xbox et PlayStation."
+        },
+        {
+          "question": "Forever Ago convient-il aux amateurs de jeux calmes ou cosy ?",
+          "answer": "Oui, Forever Ago privilégie un rythme doux, une narration sincère et des paysages immersifs sans combats stressants ni échecs punitifs, idéal pour les amateurs d expériences contemplatives."
+        },
+        {
+          "question": "Combien de temps faut-il pour terminer l histoire de Forever Ago ?",
+          "answer": "L aventure se déploie sur 5 chapitres scénarisés et propose environ 3 à 5 heures de jeu émouvant selon le temps passé à photographier et explorer les secrets du bord de route."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à Voyager dans Forever Ago ?",
+      "description": "De vos premières photos avec Alfred jusqu à la découverte des souvenirs clés de chaque chapitre, notre wiki vous accompagne avec des guides complets.",
+      "primary": "Explorer les Guides d Histoire",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du Wiki",
+    "activeCodes": "Codes Actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes Suivantes",
+    "needHelp": "Besoin d aide ?",
+    "relatedReading": "Lectures Associées",
+    "relatedGuides": "Guides Connexes",
+    "readMore": "En savoir plus",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !",
+    "playOnSteam": "Jouer sur Steam"
+  },
+  "footer": {
+    "aboutTitle": "Forever Ago Wiki",
+    "about": "Forever Ago Wiki est un espace indépendant créé par des fans, couvrant les chapitres de l histoire, la photographie, les personnages, les lieux et les connaissances essentielles pour les passionnés d aventures narratives.",
+    "quickLinks": "Liens Rapides",
+    "guides": "Guides",
+    "legal": "Mentions Légales",
+    "copyright": "2026 Forever Ago Wiki. Non affilié aux développeurs du jeu ni à Steam.",
+    "description": "Jeu d aventure narrative sur le voyage, la photographie et les souvenirs sur Steam.",
+    "playGame": "Jouer à Forever Ago sur Steam",
+    "officialDiscord": "Communauté Steam",
+    "officialYoutube": "YouTube Officiel",
+    "vvBuilder": "Guides de Jeu",
+    "beginnerGuide": "Guide du Débutant",
+    "raceGuides": "Guides d Histoire",
+    "bossGuides": "Guides des Mécaniques",
+    "buildGuide": "Guides des Plateformes",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d Utilisation"
+  },
+  "guide": {
+    "overviewTitle": "Guide Forever Ago",
+    "overviewDescription": "Guides complets, soluces pas à pas, conseils pour débutants et stratégies de succès pour Forever Ago."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de Forever Ago",
+    "overviewDescription": "Découvrez le camping-car, la conduite, la photographie, les souvenirs et les mécaniques clés de Forever Ago."
+  },
+  "platforms": {
+    "overviewTitle": "Plateformes Forever Ago",
+    "overviewDescription": "Disponibilité sur plateformes, configuration requise PC, détails Steam, éditions consoles et infos Game Pass."
+  },
+  "release": {
+    "overviewTitle": "Sortie de Forever Ago",
+    "overviewDescription": "Dates de sortie, détails sur les prix, bandes-annonces, taille de fichier et informations de lancement."
+  },
+  "story": {
+    "overviewTitle": "Histoire de Forever Ago",
+    "overviewDescription": "Explorez le récit narratif, les personnages, le doublage vocal, les fins et les thèmes majeurs de Forever Ago."
+  },
+  "reviews": {
+    "overviewTitle": "Avis sur Forever Ago",
+    "overviewDescription": "Réception critique, évaluations des joueurs, notes Metacritic, avis de la communauté et jeux similaires."
+  }
+}
