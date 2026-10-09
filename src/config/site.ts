@@ -29,9 +29,9 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://store.steampowered.com/app/1215940/Forever_Ago/",
   heroVideoId: "xo21XiAPAKQ", // Forever Ago Launch Trailer
   social: {
-    discord: "https://discord.gg/steam",
+    discord: "https://steamcommunity.com/app/1215940",
     youtube: "https://www.youtube.com/@AnnapurnaInteractive",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };
