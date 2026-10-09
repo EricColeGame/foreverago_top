@@ -6,7 +6,14 @@
     "description": "Your ultimate guide to Forever Ago on Steam! Explore story chapters, camera and photography mechanics, character lore, and progression tips.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "release": "Release",
+    "story": "Story",
+    "reviews": "Reviews"
+  },
   "home": {
     "meta": {
       "title": "Forever Ago Wiki — Guide, Story, Gameplay & Tips",
@@ -351,7 +358,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -387,5 +393,29 @@
     "buildGuide": "Platform Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Forever Ago Guide",
+    "overviewDescription": "Comprehensive guides, walkthroughs, beginner tips, and achievement strategies for Forever Ago."
+  },
+  "mechanics": {
+    "overviewTitle": "Forever Ago Mechanics",
+    "overviewDescription": "Learn about the camper van, driving, photography, memories, and core gameplay mechanics in Forever Ago."
+  },
+  "platforms": {
+    "overviewTitle": "Forever Ago Platforms",
+    "overviewDescription": "Platform availability, PC system requirements, Steam details, console editions, and Game Pass info for Forever Ago."
+  },
+  "release": {
+    "overviewTitle": "Forever Ago Release",
+    "overviewDescription": "Release dates, pricing details, trailers, file sizes, and launch information for Forever Ago."
+  },
+  "story": {
+    "overviewTitle": "Forever Ago Story",
+    "overviewDescription": "Explore the narrative journey, characters, voice actors, endings, and story themes of Forever Ago."
+  },
+  "reviews": {
+    "overviewTitle": "Forever Ago Reviews",
+    "overviewDescription": "Critical reception, player reviews, Metacritic ratings, community impressions, and games like Forever Ago."
   }
 }
