@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Story Guides, Camera Mechanics & Walkthroughs",
   description: "Complete Forever Ago wiki with story guides, camera mechanics, chapter walkthroughs, characters, system requirements and release updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://foreverago.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://foreverago.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@foreverago.top",
   gameUrl: "https://store.steampowered.com/app/1215940/Forever_Ago/",
   heroVideoId: "xo21XiAPAKQ", // Forever Ago Launch Trailer
   social: {

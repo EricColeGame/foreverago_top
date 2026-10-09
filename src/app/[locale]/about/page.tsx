@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Forever Ago Wiki is an independent fan-built guide hub covering story chapters, camera and photography mechanics, characters, locations, and essential tips for new and returning players.</p>
+      <p>Our mission is to help players navigate Alfred's emotional journey with clear, comprehensive guides and helpful community information.</p>
     </LegalPage>
   );
 }
