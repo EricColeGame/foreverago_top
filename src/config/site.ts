@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Forever Ago Wiki",
+  shortName: "Forever Ago",
+  logoText: "FA",
+  tagline: "Complete Story Guides, Camera Mechanics & Walkthroughs",
+  description: "Complete Forever Ago wiki with story guides, camera mechanics, chapter walkthroughs, characters, system requirements and release updates.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://foreverago.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://foreverago.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/1215940/Forever_Ago/",
+  heroVideoId: "xo21XiAPAKQ", // Forever Ago Launch Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/steam",
+    youtube: "https://www.youtube.com/@AnnapurnaInteractive",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
